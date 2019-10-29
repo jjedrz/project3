@@ -18,7 +18,7 @@ window.addEventListener('scroll', function () {
         grow = true; // !grow ?
     }
 
-
+    zzzass
     if (grow) {
         size += 5;
         square.style.width = size + "px";
